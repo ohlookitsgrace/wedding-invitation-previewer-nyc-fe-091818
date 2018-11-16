@@ -33,7 +33,7 @@ const bride = document.getElementById("bride");
   
   const style2 = document.getElementById("style2")
  style2.addEventListener("click", function(event){
-  document.getElementById("firstbox").style.backgroundImage = 'url("https://images.unsplash.com/photo-1517061908942-6ccc4c1b56ea?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6df6bb1ce34e5272db76764c9052a660&auto=format&fit=crop&w=580&q=80")';
+  document.getElementById("firstbox").style.backgroundImage = 'url("https://media.giphy.com/media/2wTahmbK632LnN7geD/giphy.gif")';
   document.getElementById("firstbox").style.fontFamily = "'Cutive Mono', monospace";
   document.getElementById("style2").style.fontFamily = "'Cutive Mono', monospace";
   document.getElementById("styles").style.fontFamily = "'Cutive Mono', monospace";
