@@ -1,0 +1,21 @@
+// HTML
+//<input>
+//<buttonz> for the selections or <nav> or <input type="radio">
+// the right side = div-a-roonie
+
+
+// CSS
+//div's height and width should be higher than the form
+//css grid one grid, one row for the header
+//2 column grid maybe? left column is the form, right is the invite
+//flexbox??
+//background-color is black or whatever
+//background-image for the div?
+//class or id to switch between the diff invite options
+
+// Javascript
+// 1. form
+//event listener for typing
+
+// 2. styling (the toggling b/w formal, spring, and art deco)
+// onclock on button/div/whatever, the style changes for invitation
