@@ -22,7 +22,7 @@ const bride = document.getElementById("bride");
 });
  const style1 = document.getElementById("style1")
  style1.addEventListener("click", function(event){
-  document.getElementById("firstbox").style.backgroundImage = 'url("https://images.unsplash.com/photo-1517331245290-8ab345b4265d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b195dbf0e1c9fda40340034db3ae7247&auto=format&fit=crop&w=634&q=80")';
+  document.getElementById("firstbox").style.backgroundImage = 'url("https://i.pinimg.com/originals/45/b3/ef/45b3efeb3863aea9cee18e5242101e23.gif")';
   document.getElementById("firstbox").style.fontFamily = "'Alex Brush', cursive";
   document.getElementById("style1").style.fontFamily = "'Alex Brush', cursive";
   document.getElementById("styles").style.fontFamily = "'Alex Brush', cursive";
