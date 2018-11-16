@@ -26,9 +26,9 @@ const bride = document.getElementById("bride");
   document.getElementById("firstbox").style.fontFamily = "'Alex Brush', cursive";
   document.getElementById("style1").style.fontFamily = "'Alex Brush', cursive";
   document.getElementById("styles").style.fontFamily = "'Alex Brush', cursive";
-   document.getElementById("styles").style.color = "black";
+   document.getElementById("styles").style.color = "#FFFFFF";
   document.getElementById("styles").style.fontWeight = "bold";
-  document.getElementById("secondcolor").style.color = "black";
+  document.getElementById("secondcolor").style.color = "#FFFFFF";
   });
   
   const style2 = document.getElementById("style2")
